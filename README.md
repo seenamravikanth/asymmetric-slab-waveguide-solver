@@ -24,6 +24,6 @@ This project numerically studies the guided modes of an asymmetric slab waveguid
 This project explores how waveguide geometry and refractive indices determine optical confinement and guided-mode propagation.
 
 ## Author
-Seenam Ravikanth
+Seenam Ravikanth,
 M.Tech Photonics Science and Engineering  
 Indian Institute of Technology Kanpur
