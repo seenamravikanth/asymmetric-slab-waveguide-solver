@@ -27,3 +27,10 @@ This project explores how waveguide geometry and refractive indices determine op
 Seenam Ravikanth,
 M.Tech Photonics Science and Engineering  
 Indian Institute of Technology Kanpur
+## Simulation Results
+
+### TE and TM Mode Dispersion
+
+![Slab Waveguide Dispersion](slab_waveguide_dispersion.png)
+
+The plot shows the normalized propagation constant b versus normalized frequency V for TE and TM modes.
